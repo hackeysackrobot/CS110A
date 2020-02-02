@@ -1,4 +1,3 @@
-# Linda Vest Marquart
 # CS110A
 # Homework 3
 # 01-26-2020
